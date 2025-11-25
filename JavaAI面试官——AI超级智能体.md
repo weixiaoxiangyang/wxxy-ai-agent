@@ -6,7 +6,8 @@
 
 ## 2.项目简介（Project Introduction）
 
-![image-20251125163308412](D:\images\image-20251125163308412.png)
+<img width="1206" height="737" alt="image" src="https://github.com/user-attachments/assets/65ae5c89-2b16-44d5-8452-ce979d8b3fa6" />
+
 
 ### 2.1核心定位
 
@@ -110,5 +111,6 @@ wxxy-ai-agent-frontend/
 ![image-20251125163331628](D:\images\image-20251125163331628.png)
 
 ![image-20251125163515880](D:\images\image-20251125163515880.png)
+
 
 ![image-20251125163630661](D:\images\image-20251125163630661.png)
